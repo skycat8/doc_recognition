@@ -1,9 +1,10 @@
+```
  _____         _             _____     _ _             
 |   __|_ _ ___| |_ ___ _____|   __|___|_| |_ _ ___ ___ 
 |__   | | |_ -|  _| -_|     |   __| .'| | | | |  _| -_|
 |_____|_  |___|_| |___|_|_|_|__|  |__,|_|_|___|_| |___|
-      |___|                                            
-===
+      |___|
+```
 
 Here is the main code storage of SystemFailure© solution of [GagarinHakaton/Mercury](http://gagarinhack.ru/) case.
 
