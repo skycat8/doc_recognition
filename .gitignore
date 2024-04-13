@@ -1,0 +1,64 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Models
+*.dat
+*.caffemodel
+*.prototxt
+
+# Archives
+*.gz
+*.tar
+*.xz
+*.bz2
+
+# PDF
+*.pdf
+
+# Apps
+isrv*
+*.log
+
+# Certificates and env files
+*.pem
+*.key
+annotator/.env
+
+# Local files
+*.pro.user*
+*.env
+android
+build
+venv
+__pycache__
+.idea
+logs
+.ipynb_checkpoints
+*.json
+*.qm

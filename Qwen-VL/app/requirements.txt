@@ -1,0 +1,14 @@
+uvicorn==0.24.0.post1
+fastapi==0.104.1
+asgi-correlation-id
+python-multipart==0.0.6
+pydantic==2.5.2
+
+# ML tools and image processing tools
+torch==2.2.0  # (CUDA 12.2 compatible)
+opencv-python==4.9.0.80
+transformers
+accelerate
+
+# Obfuscation tools
+pyarmor==6.8.1
